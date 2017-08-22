@@ -1,4 +1,7 @@
 # PIXAR IN A BOX - STORYTELLING
+
+Summary of the first 3 sections f Pixar's crash course on Storytelling available on Khan Academy
+
 (as seen [here](https://www.khanacademy.org/partner-content/pixar/storytelling "Pixar in a Box - Storytelling"))
 
 ### INTRODUCTION

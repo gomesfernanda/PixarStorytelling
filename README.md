@@ -48,7 +48,7 @@
    - But often they realize that what they want is not actually what they needed and what they needed is much more important.
    - Finding out what they need, that usually is the theme of the movie.
    - Once you know what your theme is, what you're trying to say, you can then create a series of dramatic events, dramatic tests for your protagonist for the viewer's realization that "I need to change and I need to be influenced by the theme of this movie".
-   ![img_placeholder](https://jpg “Image Placeholder“)
+   ![img_placeholder](https://user-images.githubusercontent.com/21245928/29565016-81f57234-8744-11e7-8521-0f20d7aa64a9.png “Image Placeholder“)
 - __ACT 3__: [f] Until finally… _(the character sacrifices his "wants" for his "needs" and comes up with a __resolution__)_ [g] The moral of the story is… _(summarize the moral of the story)_
    - The third act is where we pull everything together. The characters have overcome their obstacles. Their arcs are now complete. The theme has been clearly expressed, and we've brought the story to a logical and emotional, sometimes unexpected conclusion.
 - Note: In Act 2 your character _learns_ what is important, while in Act 3 he _fights_ for that important thing.

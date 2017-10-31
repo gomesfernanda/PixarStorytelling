@@ -2,15 +2,15 @@
 
 Summary of the first 3 sections of Pixar's crash course on Storytelling available on Khan Academy
 
-Full course can be found [here](https://www.khanacademy.org/partner-content/pixar/storytelling "Pixar in a Box - Storytelling")
+Full course can be found [here](https://www.khanacademy.org/partner-content/pixar/storytelling "Pixar in a Box - Storytelling").
 
 ### INTRODUCTION
-- Story connects with people on an emotional level.
-- “What if?" - the invite for the imagination for a story you want to explore.
+- A story connects with people on an emotional level.
+- “What if?" statement is the invite for the imagination for a story you want to explore.
 - A "what if" statement often introduces a WORLD and a CHARACTER.
 - __WORLD__: an environment or a set of several rules in which your story will take place; can be literal or figurative.
 - __CHARACTER__: subject or individual we follow on the journey of the story.
-- Which one you will build first is upon your will.
+    - Which one you will build first is upon your will.
 
 ### CHARACTER
 - When you are struggling with your character, it helps if you imagine how he would behave in difficult situations (e.g., he is trapped in an elevator).

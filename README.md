@@ -82,4 +82,4 @@ Full course can be found [here](https://www.khanacademy.org/partner-content/pixa
 - You gotta identify with your situation/characters, can’t just write ‘cool’. What would make YOU act that way?
 - What’s the essence of your story? Most economical telling of it? If you know that, you can build out from there.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-109670866-1/PixarStorytelling/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://www.google-analytics.com/__utm.gif?utmwv=1&utmn=769876874&utmhn=github.com&utmcs=ISO-8859-1&utmje=1&utmcn=1&utmdt=github%20projects&utmhid=2059107202&utmr=www.github.com%2Fgomesfernanda%2FPixarStorytelling&utmp=/auto/GATC012.html?utm_source=source+PixarStorytelling&utm_campaign=campaign+PixarStorytelling&utm_term=term+PixarStorytelling&utm_content=content+PixarStorytelling&utm_medium=medium+PixarStorytelling&utmac=UA-109670866-1)](https://github.com/igrigorik/ga-beacon)

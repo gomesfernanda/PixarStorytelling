@@ -81,3 +81,5 @@ Full course can be found [here](https://www.khanacademy.org/partner-content/pixa
 - Exercise: take the building blocks of a movie you dislike. How d’you rearrange them into what you DO like?
 - You gotta identify with your situation/characters, can’t just write ‘cool’. What would make YOU act that way?
 - What’s the essence of your story? Most economical telling of it? If you know that, you can build out from there.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-109670866-1/PixarStorytelling/readme)](https://github.com/igrigorik/ga-beacon)

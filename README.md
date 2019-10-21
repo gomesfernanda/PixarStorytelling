@@ -5,6 +5,7 @@ Summary of the first 3 sections of Pixar's crash course on Storytelling availabl
 Full course can be found [here](https://www.khanacademy.org/partner-content/pixar/storytelling "Pixar in a Box - Storytelling").
 
 ### INTRODUCTION
+
 - A story connects with people on an emotional level.
 - “What if?" statement is the invite for the imagination for a story you want to explore.
 - A "what if" statement often introduces a WORLD and a CHARACTER.
@@ -12,7 +13,9 @@ Full course can be found [here](https://www.khanacademy.org/partner-content/pixa
 - __CHARACTER__: subject or individual we follow on the journey of the story.
     - Which one you will build first is upon your will.
 
+
 ### CHARACTER
+
 - When you are struggling with your character, it helps if you imagine how he would behave in difficult situations (e.g., he is trapped in an elevator).
 - Entertaining characters are often deeply flawed, and their flaws may be the key on why the audience cares about them.
 - Fully-developed character: a character that we know so well that we can imagine him in almost any situation.
@@ -34,6 +37,7 @@ Full course can be found [here](https://www.khanacademy.org/partner-content/pixa
 
 
 ### STORY STRUCTURE
+
 - __Story beats__: most important moments in your story.
    - Beats are the kinds of things you'd mention if you described your story in 30 seconds.
    - Beats build the structure ("nodes" of the structure).
@@ -59,6 +63,7 @@ Full course can be found [here](https://www.khanacademy.org/partner-content/pixa
 --------
 
 ## PIXAR’S RULES OF STORYTELLING
+
 - You admire a character for trying more than for their successes.
 - You gotta keep in mind what’s interesting to you as an audience, not what’s fun to do as a writer. They can be very different.
 - Trying for theme is important, but you won’t see what the story is actually about until you’re at the end of it. Now rewrite.
